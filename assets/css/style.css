@@ -1,0 +1,27 @@
+h3, article {
+    clear: left;
+}
+
+#chooseJarJar {
+    clear: right;
+}
+
+h1 {
+    float: right;
+}
+
+div {
+    float: left;
+    padding: 10px 0px;
+    background-color: white;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+#bkgrnd {
+    z-index: -1;
+    position: absolute;
+    top: 0;
+}
